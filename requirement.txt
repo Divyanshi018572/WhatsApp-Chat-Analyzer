@@ -1,0 +1,8 @@
+streamlit==1.24.1
+matplotlib==3.8.0
+seaborn==0.12.2
+urlextract==1.5.0
+wordcloud==1.8.2.2
+pandas==2.0.3
+emoji==2.6.0
+regex==2023.8.8
